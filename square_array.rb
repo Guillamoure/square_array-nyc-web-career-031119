@@ -6,5 +6,6 @@ def square_array(array)
     
     squared.push(new)
     
-  endreturn squared
+  end
+  return squared
 end
